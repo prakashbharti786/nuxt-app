@@ -12,3 +12,6 @@ dist
 
 # Editor File
 .idea/
+
+# PWA AutoGenerate
+sw.*

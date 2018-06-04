@@ -1,4 +1,7 @@
 module.exports = {
+  modules: [
+    '@nuxtjs/pwa',
+  ],
   /*
   ** Headers of the page
   */
